@@ -27,7 +27,7 @@ module.exports = () => {
 
         host: 'bxodxpskr9thch1cvwrt-mysql.services.clever-cloud.com',
         user: 'uklbdmem79fjwxsh',
-        password: 'uklbdmem79fjwxsh',
+        password: 'KofhP9dt6wRM3vaL9QNE',
         database: 'bxodxpskr9thch1cvwrt',
         port: '3306'
 
