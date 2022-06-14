@@ -36,7 +36,7 @@ router.get('/delete/:id', function(req, res) {
 
     const id= req.params.id;
     console.log("-------------------------------------------->",id);
-    connection.query('DELETE FROM news_portal1.news WHERE id_news = ?',[id],
+    connection.query('DELETE FROM bxodxpskr9thch1cvwrt.news WHERE id_news = ?',[id],
      (err, result) => {
        if (err){
          console.log("No se ha realizado correctamente")
